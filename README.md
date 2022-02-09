@@ -9,9 +9,14 @@ Lazy Screenshots is a simple python script which you can use to take screenshots
 
 ## Features of voice_screenshot.py
 
-- Say Screenshot to take Screenshot.
-- Say Bye to quit the script.
+- Say **Screenshot** to take Screenshot.
+- Say **Bye** to quit the script.
 
 ## Features of key_screenshot.py
-- Press 0(zero) + - to take screenshot
-- Press 0(zero) + * to take screenshot
+- Press** 0(zero) + - **to take screenshot
+- Press **0(zero) + * **to take screenshot
+
+#### Screenshots will be saved in Documents/LazyScreenshots Folder
+##### Documents/LazyScreenshots Folder will work for Windows Only!
+
+###### I will upload exe file also.
